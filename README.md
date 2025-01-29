@@ -215,6 +215,13 @@ INNER JOIN usuario
 
 **Objetivo**: Validar se a consulta retorna corretamente as avaliações de pedidos e entregadores.
 
+### Diagrama de Classes
+
+Adicionado um diagrama de classes para representar a estrutura do banco de dados. O arquivo pode ser encontrado abaixo:
+
+![Diagrama de Classes](diagrama-de-classes-gerenciamento-delivery.png)
+
+
 ### Conclusão
 
 Este projeto teve como objetivo desenvolver um sistema de gerenciamento de pedidos de delivery, com funcionalidades para gerenciar restaurantes, cardápios, pedidos, usuários (clientes e entregadores), status de pedidos, e avaliações de entregadores e pedidos.
